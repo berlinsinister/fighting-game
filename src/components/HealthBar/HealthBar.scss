@@ -1,0 +1,23 @@
+.bar-wrapper {
+  position: relative;
+  height: 30px;
+  width: 100%;
+  border: 2px solid #f8f208;
+  background: #db030f;
+  box-shadow: inset 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+.bar {
+  height: 100%;
+  background: #05b201;
+}
+
+.name {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 30px;
+  line-height: 1;
+  padding: 0 20px;
+  color: #d9d947;
+}

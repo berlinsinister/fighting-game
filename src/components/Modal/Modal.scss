@@ -1,0 +1,47 @@
+.overlay {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(96, 96, 98, 0.5);
+}
+
+.modal-wrapper {
+  position: relative;
+  max-width: 500px;
+  height: 500px;
+  width: 100%;
+
+  background: #606062;
+  border: 2px solid;
+
+  a {
+    position: absolute;
+    right: 0;
+    padding: 10px 15px;
+    color: #000;
+  }
+}
+
+.winner-name {
+  padding: 30px;
+  font-size: 32px;
+  color: #fff;
+  text-transform: uppercase;
+  text-align: center;
+  text-shadow: 2px 2px black;
+}
+
+.winner-img {
+  display: flex;
+  justify-content: center;
+
+  img {
+    height: 300px;
+  }
+}

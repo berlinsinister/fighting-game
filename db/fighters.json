@@ -1,0 +1,94 @@
+{
+  "fighters": [
+    {
+      "id": 1,
+      "name": "Scorpion",
+      "health": 45,
+      "attack": 4,
+      "defense": 3,
+      "avatar": "https://cs8.pikabu.ru/post_img/2016/09/01/7/1472730493160647792.png",
+      "source": "https://i.pinimg.com/originals/4e/98/44/4e9844b5f412b64f9d4bab6e1c34ee70.gif",
+      "initialHealth": 45
+    },
+    {
+      "id": 2,
+      "name": "Sub-Zero",
+      "health": 60,
+      "attack": 3,
+      "defense": 1,
+      "avatar": "https://i.kym-cdn.com/photos/images/original/000/602/303/e5c.gif",
+      "source": "https://i.pinimg.com/originals/c2/23/14/c2231481562bb473029321e60f844b9e.gif",
+      "initialHealth":60
+    },
+    {
+      "id": 3,
+      "name": "Reptile",
+      "health": 45,
+      "attack": 4,
+      "defense": 3,
+      "avatar": "https://wiki.supercombo.gg/images/0/0e/Umk3_Reptile_pose.png",
+      "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6d0a7f03-484a-4a63-96ad-a6d65b7b2c2f/dc6cs4m-4334407c-6ab6-4724-98a0-dcd3c86d98ef.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZkMGE3ZjAzLTQ4NGEtNGE2My05NmFkLWE2ZDY1YjdiMmMyZlwvZGM2Y3M0bS00MzM0NDA3Yy02YWI2LTQ3MjQtOThhMC1kY2QzYzg2ZDk4ZWYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4zQBIertO8K8KHsVPY3C6LSr_PxV1GeJaEwLdHDMC9M",
+      "initialHealth": 45
+    },
+    {
+      "id": 4,
+      "name": "Raiden",
+      "health": 60,
+      "attack": 4,
+      "defense": 1,
+      "avatar": "https://www.pikpng.com/pngl/b/141-1410101_raiden-png-raiden-mortal-kombat-portrait-clipart.png",
+      "source": "https://64.media.tumblr.com/04ae6fd3a824305b58291e299a2879ff/tumblr_mv27cauvuj1qd8giwo1_250.gifv",
+      "initialHealth": 60
+    },
+    {
+      "id": 5,
+      "name": "Baraka",
+      "health": 45,
+      "attack": 3,
+      "defense": 4,
+      "avatar": "https://i.pinimg.com/originals/08/ed/eb/08edebb5babf30f0b70fa0873843a484.png",
+      "source": "https://i.pinimg.com/originals/b7/c7/a8/b7c7a84360fef0007d2d7d3f13f33848.gif",
+      "initialHealth": 45
+    },
+    {
+      "id": 6,
+      "name": "Ermac",
+      "health": 45,
+      "attack": 5,
+      "defense": 4,
+      "avatar": "https://www.latercera.com/resizer/lLaNzflfoeWdX4VGNcWJYrqBHL0=/800x0/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/WIZVDLAP4FDLJMJT4HSRV6ZZCY.png",
+      "source": "https://31.media.tumblr.com/tumblr_m4as1fx6T61roew1yo1_250.gif",
+      "initialHealth": 45
+    },
+    {
+      "id": 7,
+      "name": "Johnny Cage",
+      "health": 45,
+      "attack": 4,
+      "defense": 2,
+      "avatar": "https://freepngimg.com/save/20387-mortal-kombat-johnny-cage-transparent/1024x1024",
+      "source": "https://gabrielmelendez.weebly.com/uploads/1/4/6/7/14679840/780243_orig.gif",
+      "initialHealth": 45
+    },
+    {
+      "id": 8,
+      "name": "Goro",
+      "health": 60,
+      "attack": 5,
+      "defense": 3,
+      "avatar": "https://upload.wikimedia.org/wikipedia/ru/7/74/GoroRenderMKX.png",
+      "source": "https://giffiles.alphacoders.com/688/68885.gif",
+      "initialHealth": 60
+    },
+    {
+      "id": 9,
+      "name": "Cyrax",
+      "health": 50,
+      "attack": 5,
+      "defense": 2,
+      "avatar": "https://jahforum.net/uploads/profile/photo-11866.png",
+      "source": "https://i.gifer.com/origin/2e/2e8108db082da512d16404bdcb5fbc1c_w200.gif",
+      "initialHealth": 50
+    }
+  ]
+}
